@@ -1,0 +1,9 @@
+{
+  "name": "Le Tabernacle de la Foi - Centre de Vie Spirituelle",
+  "description": "Une plateforme interactive pour Le Tabernacle de la Foi offrant guidance par IA, dons en un clic, streaming en direct et gestion communautaire.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}

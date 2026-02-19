@@ -1,0 +1,24 @@
+
+{
+  "short_name": "Tabernacle",
+  "name": "Le Tabernacle de la Foi - Church Hub",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3246/3246660.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3246/3246660.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0a0a0a",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#c5a059",
+  "description": "L'application officielle de votre église Le Tabernacle de la Foi.",
+  "orientation": "portrait-primary"
+}
